@@ -8,3 +8,6 @@ This repository contains table of resources (i.e. research papers, blog posts, c
 | Densely Connected Convolutional Networks                                             | https://arxiv.org/abs/1608.06993 |10/10|
 | Cyclical Learning Rates for Training Neural Networks                                 | https://arxiv.org/abs/1506.01186  |9/10|
 | Deep Residual Learning for Image Recognition | https://arxiv.org/abs/1512.03385 |10/10|
+| The Illustrated Transformer | https://jalammar.github.io/illustrated-transformer/ | 0/10|
+| Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)|https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ | 0/10 |
+|The Annotated Transformer| http://nlp.seas.harvard.edu/2018/04/03/attention.html | 0/10 |
