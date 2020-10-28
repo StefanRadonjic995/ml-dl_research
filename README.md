@@ -5,3 +5,6 @@ This repository contains table of resources (i.e. research papers, blog posts, c
 | Research Paper                                                                       | URL                              | Progress (0/10) |
 |--------------------------------------------------------------------------------------|----------------------------------|-----------------|
 | A Survey on Transfer Learning                                                        | https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf| 9/10|
+| Densely Connected Convolutional Networks                                             | https://arxiv.org/abs/1608.06993 |10/10|
+| Cyclical Learning Rates for Training Neural Networks                                 | https://arxiv.org/abs/1506.01186  |9/10|
+| Deep Residual Learning for Image Recognition | https://arxiv.org/abs/1512.03385 |10/10|
